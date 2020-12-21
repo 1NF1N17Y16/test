@@ -9,7 +9,7 @@
   background-color: #fff;
   color: #454857;
   border: 1px solid #eaeaea;
-  position: absolute;
+  position: fixed;
   box-shadow: 0 5px 28px 0 rgba(227, 227, 227, 1);
   z-index: 9999;
 }
